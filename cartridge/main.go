@@ -3,6 +3,8 @@ package main
 import (
 	"image"
 	"math/rand"
+
+	"github.com/TheMightyGit/marv/marvtypes"
 )
 
 const (
